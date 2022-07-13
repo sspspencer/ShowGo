@@ -55,7 +55,7 @@ locationInp.value = localStorage.getItem("city");
 const options = {
   method: "GET",
   headers: {
-    "X-RapidAPI-Key": "2b92fef2bcmsh556664cb99f6a08p1d4c5fjsn24644372ab39",
+    "X-RapidAPI-Key": "",
     "X-RapidAPI-Host": "spotify23.p.rapidapi.com",
   },
 };
